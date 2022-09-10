@@ -1,0 +1,21 @@
+# Assignement description
+
+This assignment requires you to build a basic shape-drawing application from first principles. 
+The file GrafPack.cs is provided for you, which contains the partial code for a WinForms application that currently just creates and displays only one square.
+You are required to develop the application so that various different shapes can be drawn with these shapes referenced in an array. 
+The different shapes should all be defined as classes which inherit from a class Shape. Shapes should be created by discrete mouse clicks or rubber-banding (better). 
+The main menu might contain the following options (you may change these if you wish):
+
+-Create: Produces a sub-menu for creation of Square, Circle and Triangle shapes.
+-Select: Allows the user to cycle through the shapes using mouse clicks or keyboard, highlighting the selected shape. 
+         Alternatively the shape may be selected by clicking on a vertex.
+-Transform: If a shape has been selected, this should produce a sub-menu with offerings such as Move and Rotate. 
+            The amounts of movement and rotation may be input from the keyboard or via the mouse, including ‘drag and drop’ operations.
+-Delete: If a shape has been selected, this will delete it from the screen and from memory.
+-Exit: Terminate the program cleanly.
+
+The given classes may be modified, but only modifications for which documentation is supplied will be taken into account for marking. 
+The language of implementation must be C# (ensures background equivalence – all students will have studied C#).
+Wherever possible you should not use the drawing and processing features of the WinForms GDI or WPF but perform the operations from first principles
+using code you have written utilising some of the techniques outlined in this module. 
+You may enhance the functionality beyond the above specification to provide added value (see mark scheme).
