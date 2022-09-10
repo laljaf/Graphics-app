@@ -1,0 +1,20 @@
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\bin\Debug\net6.0-windows\Computer graphics.exe
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\bin\Debug\net6.0-windows\Computer graphics.deps.json
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\bin\Debug\net6.0-windows\Computer graphics.runtimeconfig.json
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\bin\Debug\net6.0-windows\Computer graphics.dll
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\bin\Debug\net6.0-windows\ref\Computer graphics.dll
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\bin\Debug\net6.0-windows\Computer graphics.pdb
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.AssemblyInfo.cs
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.dll
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\ref\Computer graphics.dll
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.pdb
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer graphics.genruntimeconfig.cache
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer_graphics.Properties.Resources.resources
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer_graphics.Forms.CreateShape.resources
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer_graphics.Forms.canvas.resources
+C:\Users\user\OneDrive - Anglia Ruskin University (1)\Desktop\Computer graphics\Computer graphics\obj\Debug\net6.0-windows\Computer_graphics.windowMenu.resources

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d9a3e53-9f81-4472-bb1d-269f65408d04": {
+      "ProjectGuid": "0d9a3e53-9f81-4472-bb1d-269f65408d04",
+      "DisplayName": "Computer graphics",
+      "ColorIndex": 0
+    },
+    "c32f8b6d-6e8e-4123-9bf0-d6f00029a91f": {
+      "ProjectGuid": "c32f8b6d-6e8e-4123-9bf0-d6f00029a91f",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
