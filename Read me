@@ -1,4 +1,6 @@
-# Assignement description
+# Assignement description 
+
+(C#, WinForm)
 
 This assignment requires you to build a basic shape-drawing application from first principles. 
 The file GrafPack.cs is provided for you, which contains the partial code for a WinForms application that currently just creates and displays only one square.
